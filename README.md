@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 4 Coding Assignment, completed.
 
-link: 
+link: https://kumkum311.github.io/coursera-course-module4-assignment3/
 Time to complete: About 30 minutes.
 
 Ask questions in Discussions if you get stuck! We are all learning, and going through getting stuck and then unstuck (even with someone's help) can be a very valuable learning experience!
